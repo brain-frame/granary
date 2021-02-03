@@ -1,3 +1,6 @@
+# Do not store docker image records
+.docker_image_record/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
